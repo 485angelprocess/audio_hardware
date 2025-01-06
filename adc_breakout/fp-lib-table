@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "adc_pcm")(type "KiCad")(uri "${KIPRJMOD}/adc_pcm.pretty")(options "")(descr ""))
+)
